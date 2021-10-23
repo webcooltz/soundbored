@@ -50,6 +50,9 @@ android {
         includeInApk true
         includeInBundle true
     }
+    buildFeatures {
+        viewBinding true
+    }
 }
 
 dependencies {
