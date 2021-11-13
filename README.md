@@ -1,13 +1,13 @@
 SoundBored
 =================================
 
-Latest version: 2.3 (releasing soon!)
+Latest version: 2.4
 
 ### Get the app
-[![Download app](https://github.com/webcooltz/soundbored/blob/master/pictures/googleplay.png?raw=true)](https://play.google.com/store/apps/details?id=com.bri1.soundbored2) (in review)
-[![Download app](https://github.com/webcooltz/soundbored/blob/master/pictures/fdroid.png)](https://f-droid.org/en/packages/soundbored2.reborn/) (not posted yet)
+[![Download app](https://github.com/webcooltz/soundbored/blob/master/pictures/googleplay.png?raw=true)](https://play.google.com/store/apps/details?id=com.bri1.soundbored2&hl=en_US&gl=US)
+[![Download app](https://github.com/webcooltz/soundbored/blob/master/pictures/fdroid.png)](https://f-droid.org/en/packages/com.bri1.soundbored2/)
 
-<img src="https://github.com/webcooltz/soundbored/blob/master/pictures/screen-cap2.png" alt="screenshot" width="225" height="400">
+<img src="https://github.com/webcooltz/soundbored/blob/master/pictures/screen-cap-2.4.png" alt="screenshot" width="225" height="400">
 
 ### License
 
