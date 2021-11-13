@@ -40,5 +40,6 @@
     <string name="good_evening">good evening</string>
     <string name="ok">okay</string>
     <string name="roommates">roommates</string>
+    <string name="privacy_policy"><a href="https://github.com/webcooltz/soundbored/blob/master/privacy-policy.md\">Privacy Policy</a></string>
 
 </resources>
